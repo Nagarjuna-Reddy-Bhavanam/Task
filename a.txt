@@ -1,2 +1,3 @@
 the sum of the of first 5 numbers is 15
 the program is done
+the value is added
